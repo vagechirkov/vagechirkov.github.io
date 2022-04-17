@@ -2,7 +2,7 @@
 title: About
 permalink: /about/
 layout: page
-comments: false
+comments: true
 ---
 
 Hi, I’m Valerii! 👋
