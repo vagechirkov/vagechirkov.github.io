@@ -2,7 +2,7 @@
 title: Blog # site title
 theme: "klise"
 description: >- # site description
-  He is my Blog.
+  Hi there 👋! This is my personal website.
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,12 +12,13 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Valerii Chirkov # author name
-  bio: >- # tell to the world
-    Here is my Blog.
+  bio: >-
+    Hi there 👋! This is my personal website.
   username: vagechirkov # general username
   github: vagechirkov # github username
   twitter: ValeriiChirkov # twitter username
   facebook: facebook_username # facebook username
+  linkedin: valerii-chirkov-324a421b9 # linkedin username
   email: vagechirkov@gmail.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
