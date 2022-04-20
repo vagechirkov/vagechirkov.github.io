@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Easy and flexible events managing for behavioral studies in Unity"
+title:  "Easy and flexible programming pattern for behavioral studies in Unity"
 date:   2022-04-19 16:00:00 +0700
 categories: unity
 tags: [behavioral experiments, unity, uxf]
